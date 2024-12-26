@@ -46,16 +46,6 @@ A simple GUI application to transcribe audio files into SRT subtitle files using
 
 ---
 
-### For Developers: Steps to Run or Modify
-1. Clone or download the repository.
-2. Install all dependencies as described above.
-3. Run the app with:
-   `python lokM2S.py`
-4. Modify settings such as model size, language, or chunk size directly in the `lokM2S.py` script.
-5. To create a new build, follow the steps in **Building the Application**.
-
----
-
 ## 📝 Notes
 - Whisper model weights will be downloaded on the first run.
 - Logs will be displayed in the terminal for debugging.
