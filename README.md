@@ -1,4 +1,4 @@
-# MP3 to SRT Transcription App
+# lokM2S
 
 A simple GUI application to transcribe audio files into SRT subtitle files using OpenAI's Whisper.
 
@@ -15,7 +15,7 @@ A simple GUI application to transcribe audio files into SRT subtitle files using
 
 ### Installation
 1. Download the latest release from the **Releases** section of this repository.
-2. Extract the downloaded `.zip` file to a folder of your choice.
+2. Extract the downloaded `.rar` file to a folder of your choice.
 3. Double-click the `lokM2S.exe` file to launch the application.
 
 ---
